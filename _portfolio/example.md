@@ -2,7 +2,7 @@
 caption: #what displays in the portfolio grid:
   title: Karen
   subtitle: Vinnige vos
-  thumbnail: ../assets/img/portfolio/paard-1.jpeg
+  thumbnail: ../assets/img/portfolio/paard-1.jpg
   
 #what displays when the item is clicked:
 title: Title
