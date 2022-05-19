@@ -1,19 +1,23 @@
 ---
-title: Project Threads
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
+title: Lovecraft De Coeur
+subtitle: SBS
 image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/01-full.jpg
-alt: Shirts on a hanger
+alt: Lovecraft De Coeur
 
 caption:
-  title: Kristel
-  subtitle: Aardige Arabier
+  title: Lovecraft De Coeur
+  subtitle: SBS
   thumbnail: ./assets/img/portfolio/paard-2.jpg
 ---
 
-Use this area to describe your project. **Markdown** supported. This entry (project1.md) uses links for the image sources. All other projects in the portfolio use local images. Both work just fine! Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+{:.list-inline} 
+- Geboortedatum: 02/06/2017
+- Geslacht: hengst
+- Niveau: L/M 
+- Kleur: donkerbruin
+- Afstamming: V.VLEUT (GUCCIO) M.TREFLE DE COEUR (VENU DES HALLES)
+- Klinisch gekeurd: ja
+- RX gekeurd: ja
+- Prijsklasse: C
 
-{:.list-inline}
-
-- Date: January 2017
-- Client: Threads
-- Category: Illustration
+Springen, allround, eventing

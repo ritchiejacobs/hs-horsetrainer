@@ -11,24 +11,55 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: De beste paarden van België
+    title: '"Paard en mens weer zen"'
     text: HS Horsetrainer
-    button: Bekijk paarden
+    button: Ontdek onze diensten
     buttonlink: "#services"
 
   services:
     title: "Diensten"
-    text: "Lorem ipsum"
+    text: |+
+      Heb je een trauma paard? Een paard met een probleem? Een moeilijk paard? Zit je vast in de training of weet je niet meer waar naartoe met elkaar? Kan je wat zelfvertrouwen gebruiken of Wil je graag je eigen paard zadelmak maken of opleren maar weet je niet waar te beginnen of durf je niet goed alleen.. wil je je paard beter leren lezen en begrijpen? Of zoek je ondersteuning in het bewust leren paardrijden? Ik begeleid je graag naar paard en mens in balance, rust .
+      
+      Voor het herbalanceren en terug tot zichzelf komen van jouw paard, gedurende 1 maand, vraag ik 550€ ( uit ervaring weet ik dat er bij de paarden die bij mij komen, na 1 week al een enorm verschil te zien is)
+
+      Voor het opleren €650
+
+      Voor het samen opleren van 0, aan huis vraag ik 45€/u 
+      Voor begeleiding/les/hulp is het 30€/u
+
+      Wanneer de afstand groter is dan 30 km van bij mij thuis gerekend, reken ik 0,30€/km extra)
+
+
+      Ook begeleid ik je graag naar het vinden van het geschikte eerste paard voor jouw of je gezin.
+
+      Ontbreekt het jouw aan kennis of is de paarden wereld jouw vreemd en weet je niet goed waar te beginnen, dan help ik U binnen een totaal pakket verder om het juiste paard voor jouw en/of je gezin te vinden.
+
+      We beginnen altijd eerst met een gratis intake gesprek, dit kan zowel online, als in levende lijve. 
+
+      Wat houd dit totaal pakket in?  Jij of je kind loopt eerst 1 week, naar wens, met mij mee, ik leer jouw de kneepjes van het vak, hoe ga je correct om met je paard en wat is belangrijk. Waar moet je rekening met houden. 
+      We doorlopen de huisvestiging, het onderhoud, de juiste voeding, het gedrag van je paard, grondwerk en eventueel rijden. Daarna gaan we samen op zoek naar het juiste paard. 
+      Ik zoek voor jouw mee , naar het paard van je dromen, wij gaan (indien gewenst) samen de paarden bekijken en uittesten, ik maak je allert voor de dingen waar je moet op letten of ik voer het gesprek volledig zelf, ik bekijk het paard van kop tot teen en kijk of alle nodige documenten in orde zijn en het paard voldoet aan jullie eisen. 
+      Zodra U het juiste paard gevonden heeft, verwijs ik je eventueel door naar een DA om een klinisch, al dan niet rontgologisch onderzoek te laten uitvoeren als ik dit nodig vind. 
+      Als u dat wenst regel ik deze afspraak voor jouw en zal ik ook daar aanwezig zijn tijdens de keuring.
+      Deze DA kosten zitten niet in het pakket inbegrepen en zijn uiteraard geheel voor jezelf! 
+      Ik zorg eventueel voor het veilig thuisbrengen van je paard en het nieuwe paard kan eventueel binnen dit pakket, gedurende 1 week bij mij gestald worden om te observeren/trainen, in balance brengen en/of jouw te begeleiden met het trainen van je nieuwe paard zodat jullie samen een goede start maken. 
+      Voor dit hele pakket houd ik rekening met een periode van 1 maand en reken ik 900€ (Extra kosten zijn 0,30€ de km voor het gaan bekijken van een paard, gerekend van bij mij thuis tot terug komst, voor het vervoeren van jouw aangekochte paard word 2€ extra/km aangerekend) , heb je binnen deze periode nog niet gevonden wat je zoekt stopt mijn begeleiding, je hebt dan voldoende kennis opgedaan om de zoektocht alleen verder te zetten. 
+      Wel blijf ik steeds bereikbaar voor vragen en hulp en zal ik jouw contacteren wanneer ik eventueel paarden tegen kom die kunnen voldoen aan uw eisen. 
+      Let op, wij kopen zelf geen paarden aan binnen dit pakket!
+
+      Wij hebben wel steeds jonge paarden in opleiding voor verkoop
+
     section: services
     list:
       - title: "Verkoop"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        desc: "Wij hebben geregeld jonge sport, allround paarden in de aanbieding."
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
       - title: "Training"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        desc: "Lessen aan huis, lessen ter plaatse en begeleiding."
         icon: fas fa-laptop
       - title: "Vervoer"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        desc: "Privé luxe transport binnen België."
         icon: fab fa-markdown
 
   portfolio:
@@ -39,29 +70,25 @@ en: &DEFAULT_EN
 
   timeline:
     title: "Prijsklasse"
-    text: "Korte tekst over de verschillende prijs klasses"
-    section: timeline
+    # text: "Korte tekst over de verschillende prijs klasses"
+    # section: timeline
     # left is the default
     #start_align: "left"
     events:
-      - title: "Lorem ipsum"
-        year: "Prijsklasse A"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "Prijsklasse A"
+        desc: "€0 - €4000"
         image: assets/img/timeline/1.jpg
         alt:
-      - title: "Lorem ipsum"
-        year: "Prijsklasse B"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "Prijsklasse B"
+        desc: "€4000 - €6000"
         image: assets/img/timeline/2.jpg
         alt:
-      - title: "Lorem ipsum"
-        year: "Prijsklasse C"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
+      - title: "Prijsklasse C"
+        desc: "€6000 - €8000"
         image: assets/img/timeline/3.jpg
         alt: image alt text
-      - title: "Lorem ipsum"
-        year: "Prijsklasse D"
-        desc: "Your description here, **Markdown** is fully supported."
+      - title: "Prijsklasse D"
+        desc: "€8000 - €12 000"
         image: assets/img/timeline/4.jpg
         alt:
         # you can enforce the alignment
@@ -71,7 +98,49 @@ en: &DEFAULT_EN
   about:
     title: "Over ons"
     text: "ons verhaal"
-    body: "HS Horsetrainer werd opgericht in 2022, sindsdien zijn we lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    body: |
+      Ik ben een persoon die zo genaamd "wonderen" verricht achter de schermen.
+
+      Daar, het liefst waar niemand het ziet, en daar waar het rustig is om te kunnen horen en voelen wat jij of jou paard mij wil vertellen.
+
+      Ook enkel daar, is er ruimte om 1 te worden met het paard, waar niemand jouw, hij of zij, veroordeeld of op de vingers kijkt, waar de ruimte is om fouten te maken, te leren lezen en schrijven, op een manier die alleen jij en je paard begrijpt, elkaar ontdekken....een ruimte, waar perfectie, in het oog van de meeste mens, niet hoort te zijn. Perfectie komt vanzelf, na het leren lezen, tussen de lijntjes door...
+
+      Ook ik, heb dit mezelf allemaal moeten leren.
+      Ik heb met mijn 30 jaar ervaring, alle soorten paarden op mijn pad gekregen en ben geen 1 uit de weg gegaan.
+
+      Ik heb leren vechten en buigen...
+
+      Vallen en opstaan...
+
+      Nu ben ik zover, dat ik mijn kennis graag wil delen met anderen.
+
+      Daar waar een ander ten einde raad is, wil ik graag mijn hand uitsteken en te hulp schieten... het mooiste van het hele verhaal zal zijn , eigenlijk doe ik helemaal niets, U en Uw paard kunnen dit helemaal zelf gaan doen zodat jullie samen kunnen groeien
+
+      Dat is mijn doel
+
+      Daar streef ik naar 
+
+      Op het einde een vertrouwd gevoel, een blij paard, en een glimlach op het gezicht 
+
+      Trots op wat jullie geworden zijn en voldoening haal ik uit waar Ik jullie heb kunnen brengen
+
+      Verwacht geen grand prix oefeningen en standaard lessen(al heb ik wel sport ervaring tot 1.40 springen en Z dressuur, eventing, voltige, enzvrt en was ik jaren als stalmanager op sportstallen werkzaam)
+
+      Bij ons is uw paard gewoon paard .. de leraar of de leerling.. geen dressuur, spring, westernpaard...geen stempel
+
+      Bij ons is het anders...
+
+      Waar een ander geen hulp meer kan bieden, kan u hier terrecht voor een lange en gezonde samen werking tussen jouw en jouw paard.
+
+      Voor een heldere geest en het inzien van wat, waar, waarom, hier en nu 
+
+      Terug met 6 voeten op de grond 
+
+      Samen gelijk 
+
+      HS
+
+      Horse soul
     section: about
 
   clients:
@@ -131,7 +200,7 @@ en: &DEFAULT_EN
 
   contact:
     title: "Contacteer ons"
-    text: "Vragen? Neem gerust contact met ons op"
+    text: "Vragen? Stuur een bericht via het onderstaande formulier of neem contact op via het nummer 0494 76 01 66"
     section: contact
     name: "Naam*"
     name-validation: "Gelieve een naam in te vullen."
@@ -147,15 +216,7 @@ en: &DEFAULT_EN
   footer:
     legal: "Privacy Policy"
     social:
-      - url: https://twitter.com
-        icon: "fab fa-twitter"
-      - url: https://facebook.com
-        icon: "fab fa-facebook-f"
-      - url: https://linkedin.com
-        icon: "fab fa-linkedin-in"
-      - url: https://github.com/raviriley/agency-jekyll-theme
-        icon: "fab fa-github"
-      - url: https://instagram.com
+      - url: https://instagram.com/hs_horsetrainer
         icon: "fab fa-instagram"
 en-US:
   <<: *DEFAULT_EN
