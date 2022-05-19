@@ -11,12 +11,6 @@
         </div>
       </div>
 
-      <div class="row">
-        <p>
-          {{ site.data.sitetext[site.locale].services.text }}
-        </p>
-      </div>
-	  
       <div class="row text-center">
 	  {% for service in site.data.sitetext[site.locale].services.list %}
         <div class="col-md-4">
@@ -28,6 +22,10 @@
           {% if service.desc %}<div class="text-muted">{{ service.desc | markdownify }}</div>{% endif %}
         </div>
 	  {% endfor %}
+      </div>
+
+      <div class="row">
+        <p>{{ site.data.sitetext[site.locale].services.text | markdownify }}</p>
       </div>
 	  
     </div>
