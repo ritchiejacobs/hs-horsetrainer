@@ -2,12 +2,12 @@
 caption: #what displays in the portfolio grid:
   title: Conversano XXVIII-24
   subtitle: Lipizzaner ruin
-  thumbnail: ./assets/img/portfolio/paard-1.jpg
+  thumbnail: ./assets/img/paarden/conversano.jpg
   
 #what displays when the item is clicked:
 title: Conversano XXVIII-24
 subtitle: Lipizzaner ruin
-image: https://place-hold.it/400x300 #main image, can be a link or a file in assets/img/portfolio
+image: assets/img/paarden/conversano.jpg #main image, can be a link or a file in assets/img/portfolio
 alt: Conversano XXVIII-24
 
 ---
