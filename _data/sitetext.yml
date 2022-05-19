@@ -46,13 +46,13 @@ en: &DEFAULT_EN
     list:
       - title: "Verkoop"
         desc: "Wij hebben geregeld jonge sport, allround paarden in de aanbieding."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+        icon: fas fa-horse-head #find more at https://fontawesome.com/icons
       - title: "Training"
         desc: "Lessen aan huis, lessen ter plaatse en begeleiding."
-        icon: fas fa-laptop
+        icon: fas fa-dumbbell
       - title: "Vervoer"
         desc: "Privé luxe transport binnen België."
-        icon: fab fa-markdown
+        icon: fas fa-truck
 
   portfolio:
     title: "Verkoop"
